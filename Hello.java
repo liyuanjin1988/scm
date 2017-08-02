@@ -11,5 +11,8 @@ public class Hello {
 		System.out.println("世界和平,没有战争！");
 		System.out.println("世界和平,没有战争！");
 		System.out.println("世界和平,没有战争！");
+		System.out.println("世界和平,没有战争！");
+		System.out.println("世界和平,没有战争！");
+		System.out.println("世界和平,没有战争！");
 	}
 }
